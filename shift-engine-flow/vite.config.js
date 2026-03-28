@@ -19,3 +19,5 @@ export default defineConfig({
     react(),
   ]
 });
+
+console.log("APP_ID:", process.env.BASE44_APP_ID)
